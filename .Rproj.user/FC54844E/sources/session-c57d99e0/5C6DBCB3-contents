@@ -1,9 +1,34 @@
 ---
 title: "My first website"
 author: "Victoria"
-format: html
+format: 
+  html:
+   toc: true
+   toc-location: right
+   grid:
+    sidebar-width: 200px
+    body-width: 900px
+    margin-width: 400px
+    gutter-width: 1.5rem
+   theme: 
+    light: minty
+    dark: superhero
+   self-contained: true
+   lang: it
 ---
 
-## Presentation
+# Presentation
 
 This is Victoria's website!
+
+## Statement
+
+TVB!
+
+### mIAO
+
+ miao miao miao
+ 
+#### mIAOm
+
+njkbhjvhvjhvjh

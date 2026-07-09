@@ -32,3 +32,22 @@ VALRIO MI MANCHI !!!! TVB!
 #### specialmente siamo questo:
 
 <https://www.youtube.com/shorts/IODSZN9WQp0>
+
+
+#### Paragrafo:
+::: {.grid}
+
+::: {.g-col-4}
+Questa è una prima colonna
+:::
+
+::: {.g-col-4}
+Questa è la seconda
+:::
+
+::: {.g-col-4}
+Questa la terza
+:::
+
+Per maggiori dettagli, guarda [code chunk](codechunks.html)file.
+:::
